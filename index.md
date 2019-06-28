@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Welcome"
+comments: true
 ---
 # Black Rock City, FOMO?
 
@@ -18,3 +19,4 @@ The last 2 weeks before the event is when most of the after market tickets move,
 * [Burning man ticket begging (CENSORED)](https://www.facebook.com/groups/1399509927028134/?hc_location=ufi)
 * [Burning man ticket & camp exchange](https://www.facebook.com/groups/883441181745404/?hc_location=ufi)
 
+{% include disqus.html %}
