@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome"
+title:  "Black Rock City, FOMO??, This is how you get tickets"
 comments: true
 ---
 # Black Rock City, FOMO?
